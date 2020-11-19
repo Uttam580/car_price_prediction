@@ -10,7 +10,7 @@ In this project, the objective is to predict using Year,Ex-showroom price ,Kms_D
 
 **quick demo**
 
-![demo_gif](https://github.com/Uttam580/car_price_prediction/blob/master/demo.gif)
+![demo_gif](https://github.com/Uttam580/car_price_prediction/blob/master/car_price_pred.gif)
 
 
 
