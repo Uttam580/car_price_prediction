@@ -8,6 +8,10 @@
 
 In this project, the objective is to predict using Year,Ex-showroom price ,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner etc. 
 
+**quick demo**
+
+![demo_gif](https://github.com/Uttam580/car_price_prediction/blob/master/demo.gif)
+
 
 
 ## Installation
