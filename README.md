@@ -6,7 +6,7 @@
 
 # car_price_prediction
 
-In this project, the objective is to predict using Year,Ex-showroom price,\,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner etc. 
+In this project, the objective is to predict using Year,Ex-showroom price ,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner etc. 
 
 
 
